@@ -1,0 +1,24 @@
+/* Custom CSS for Personal Finance Risk Dashboard */
+
+div[data-testid="stMetricValue"] {
+    font-family: 'Inter', sans-serif;
+    color: #00d4ff;
+}
+
+.stSlider [data-baseweb="slider"] {
+    padding-top: 1rem;
+}
+
+/* Card-like container for metrics */
+div.css-1r6slb0.e1tzin5v2 {
+    background-color: #262730;
+    border: 1px solid #41424C;
+    padding: 1rem;
+    border-radius: 10px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.3);
+}
+
+h1, h2, h3 {
+    font-family: 'Outfit', sans-serif;
+    font-weight: 600;
+}
